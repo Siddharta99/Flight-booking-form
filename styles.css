@@ -1,0 +1,61 @@
+body{
+    background-color: #e4f4f5;
+}
+
+
+.option{
+    color: blue;
+    
+    margin-left: 40%;
+    
+}
+
+.top-container{
+    color:black;
+    text: small;
+    margin-left: 25%;
+    
+}
+
+.Name{
+    margin-left: 25%;
+}
+
+.h2{
+    font-size: small;
+    margin-left: 25%;
+    
+}
+
+.h3{
+    font-size:small
+    margin-left: 25%;
+    
+}
+
+.Number{
+    font-size: small;
+    margin-left: 25%;
+    
+}
+
+.middle-container{
+    font-size:small;
+    margin-left: 25%;
+    
+}
+
+.Book{
+    margin-left: 25%;
+    
+}
+
+.Ticket{
+    margin-left: 25%;
+    
+}
+
+.No{
+    margin-left: 25%;
+    
+}
